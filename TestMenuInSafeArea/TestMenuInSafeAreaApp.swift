@@ -11,7 +11,7 @@ import SwiftUI
 struct TestMenuInSafeAreaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+			TestMenuInSafeAreaInset()
         }
     }
 }
